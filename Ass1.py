@@ -1,5 +1,5 @@
 import random
-random.seed(199110)
+random.seed(199)
 from scipy import stats
 from scipy.test import expon
 import math
